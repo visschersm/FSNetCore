@@ -1,0 +1,10 @@
+C:\Users\Mark - Gaming\source\repos\fsharp\FSNetCore\src\Library\bin\Debug\net5.0\Library.deps.json
+C:\Users\Mark - Gaming\source\repos\fsharp\FSNetCore\src\Library\bin\Debug\net5.0\Library.dll
+C:\Users\Mark - Gaming\source\repos\fsharp\FSNetCore\src\Library\bin\Debug\net5.0\Library.pdb
+C:\Users\Mark - Gaming\source\repos\fsharp\FSNetCore\src\Library\bin\Debug\net5.0\Library.xml
+C:\Users\Mark - Gaming\source\repos\fsharp\FSNetCore\src\Library\obj\Debug\net5.0\Library.fsproj.AssemblyReference.cache
+C:\Users\Mark - Gaming\source\repos\fsharp\FSNetCore\src\Library\obj\Debug\net5.0\Library.AssemblyInfoInputs.cache
+C:\Users\Mark - Gaming\source\repos\fsharp\FSNetCore\src\Library\obj\Debug\net5.0\Library.AssemblyInfo.fs
+C:\Users\Mark - Gaming\source\repos\fsharp\FSNetCore\src\Library\obj\Debug\net5.0\Library.dll
+C:\Users\Mark - Gaming\source\repos\fsharp\FSNetCore\src\Library\obj\Debug\net5.0\Library.xml
+C:\Users\Mark - Gaming\source\repos\fsharp\FSNetCore\src\Library\obj\Debug\net5.0\Library.pdb
